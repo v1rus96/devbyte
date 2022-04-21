@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="cube" horiz-adv-x="256">
+    <font-face font-family="cube"
+      units-per-em="256" ascent="256"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="grid-45"
+      unicode="&#xEA01;"
+      horiz-adv-x="256" d="M8 196L8 144L60 144L112 144L112 196L112 248L60 248L8 248L8 196M144 196L144 144L196 144L248 144L248 196L248 248L196 248L144 248L144 196M96 196L96 160L60 160L24 160L24 196L24 232L60 232L96 232L96 196M232 196L232 160L196 160L160 160L160 196L160 232L196 232L232 232L232 196M8 60L8 8L60 8L112 8L112 60L112 112L60 112L8 112L8 60M144 60L144 8L196 8L248 8L248 60L248 112L196 112L144 112L144 60M96 60L96 24L60 24L24 24L24 60L24 96L60 96L96 96L96 60M232 60L232 24L196 24L160 24L160 60L160 96L196 96L232 96L232 60" />
+  </font>
+</defs>
+</svg>
